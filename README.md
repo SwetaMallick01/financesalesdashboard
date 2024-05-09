@@ -1,4 +1,4 @@
-# Finance Sales Dashboard
+# Finance Dashboard
 Creating three specialized finance dashboards focused on Sales, Profit, and Unit Sales, along with an index page to navigate among them, is an excellent approach for comprehensive financial monitoring and analysis. Below, I provide an outline and description of what each dashboard might contain and how an index page could be structured to efficiently navigate between them.
 # 1. Index Page
 Purpose: The index page serves as the central hub from which users can navigate to the specific finance dashboard they need to review. It should be user-friendly and designed to allow quick access to each specialized dashboard.
